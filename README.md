@@ -12,3 +12,12 @@ set PIPENV_VENV_IN_PROJECT=true
 
 pipenv install 
 ```
+
+## 安装依赖
+
+```shell
+
+pipenv install flask
+pipenv install requests
+
+```
